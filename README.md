@@ -3,7 +3,7 @@
 1-week Phylogenetic Training at Moi University in collaboration with Johan Nordgren from Linkoping University Division of Molecular Medicine and Virology 
 
 - **Date**: February 24 - 28, 2025
-- **Location**: Moi University Main Campus, Eldoret, Kenya
+- **Location**: Moi University, College of Health Sciences, Main Campus, Eldoret, Kenya
 
 ## ELigibility
 This training is aimed at researchers, students, and professionals interested in understanding how to construct and analyze phylogenetic trees.
