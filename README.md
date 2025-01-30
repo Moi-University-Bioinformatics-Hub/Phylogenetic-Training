@@ -1,1 +1,1 @@
-![Image](Students' flyer)
+![My Image](Students' Flyer.png)
